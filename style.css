@@ -436,21 +436,22 @@ img {
 }
 
 .aboutus-content {
-  background: #ff0000;
-  color: white;
+  color: rgb(255, 0, 0);
   text-align: center;
 }
 
 .aboutus-content p {
   font-size: 1rem;
   font-size: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
+  color: green;
   margin-top: 10;
 }
 
 .aboutus-content svg {
   display: block;
+  background: #ff0000;
 }
 
 .aboutus-content {
-  margin-top: 10;
+  margin-top: 0;
 }
